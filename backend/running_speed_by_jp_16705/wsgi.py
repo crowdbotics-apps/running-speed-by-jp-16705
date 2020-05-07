@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'running_speed_by_jp_16705.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "running_speed_by_jp_16705.settings")
 
 application = get_wsgi_application()
